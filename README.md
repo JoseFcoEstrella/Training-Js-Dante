@@ -1,0 +1,3 @@
+# TRAINING-JS
+
+`by Dante`
