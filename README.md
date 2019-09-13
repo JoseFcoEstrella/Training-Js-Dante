@@ -1,3 +1,3 @@
 # TRAINING-JS
 
-`by Dante`
+# by Dante
